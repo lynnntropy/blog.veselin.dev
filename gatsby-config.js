@@ -4,6 +4,12 @@ module.exports = {
       resolve: `gatsby-theme-blog`,
       options: {},
     },
+    {
+      resolve: `gatsby-plugin-favicon`,
+      options: {
+        logo: "./content/assets/avatar.png",
+      }
+    }
   ],
   // Customize your site metadata:
   siteMetadata: {
