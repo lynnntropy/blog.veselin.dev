@@ -7,8 +7,9 @@ import { Styled } from "theme-ui"
 
 export default () => (
   <Fragment>
-    Hi! I'm <Styled.a href="https://twitter.com/omegavesko" target="_blank">Veselin</Styled.a>, and this is my blog.
+    Hi! I'm <Styled.a href="https://twitter.com/omegavesko" target="_blank">Veselin/Vesko</Styled.a>, and this is my blog.
     <br />
-    I write about stuff I care about here (mostly code).
+    {/* I write about stuff I care about here (mostly code). */}
+    This is where I ramble about stuff I care about (mostly code).
   </Fragment>
 )
