@@ -31,6 +31,7 @@ const Bio = () => {
             mb: 0,
             width: 48,
             borderRadius: 99999,
+            flexShrink: 0,
           })}
         />
       ) : (
