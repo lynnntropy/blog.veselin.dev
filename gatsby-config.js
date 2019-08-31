@@ -15,7 +15,7 @@ module.exports = {
   siteMetadata: {
     title: `Veselin's blog`,
     author: `Veselin Romić`,
-    description: `todo`,
+    description: `Hi! I'm Veselin/Vesko, and this is my blog.`,
     social: [
       {
         name: `twitter`,
