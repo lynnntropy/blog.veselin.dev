@@ -9,7 +9,13 @@ module.exports = {
       options: {
         logo: "./content/assets/avatar.png",
       }
-    }
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-25952845-11",
+      },
+    },
   ],
   // Customize your site metadata:
   siteMetadata: {
