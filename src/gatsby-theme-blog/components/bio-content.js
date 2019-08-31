@@ -9,7 +9,6 @@ export default () => (
   <Fragment>
     Hi! I'm <Styled.a href="https://twitter.com/omegavesko" target="_blank">Veselin/Vesko</Styled.a>, and this is my blog.
     <br />
-    {/* I write about stuff I care about here (mostly code). */}
-    This is where I ramble about stuff I care about (mostly code).
+    This is where I ramble about code, and other stuff I care about.
   </Fragment>
 )
